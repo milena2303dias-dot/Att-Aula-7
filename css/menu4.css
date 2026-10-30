@@ -1,0 +1,20 @@
+body {
+    background-color: #bce1ff;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 40px;
+}
+
+h1 {
+    color: #c258ff;
+    font-size: 45px;
+    text-shadow: 3px 3px 5px rgb(0, 204, 255);
+}
+
+img {
+    width: 350px;
+    height: auto;
+    border: 5px solid #ffc2ff;
+    border-radius: 20px;
+    box-shadow: 0px 0px 25px rgb(252, 171, 255);
+}
